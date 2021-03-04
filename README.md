@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rosalito Gabriel II, but you can call me "Argee"</h1>
+<h3 align="center">Software Engineer</h3>
+[![GitHub Views](https://komarev.com/ghpvc/?username=ArgeeGabrielII&color=FAC151)]
 
-<!--
-**ArgeeGabrielII/ArgeeGabrielII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **video streaming tech**
+- 💬 Ask me about **anything**
+- ⚡ Fun fact **I'm an outdoor person (Swim, Bike, Run, Hike, WallClimbing, etc)**
 
-Here are some ideas to get you started:
+## 🤜🏻🤛🏻 Support Me
+You can support me and [buy me a coffee][1], if you want. 🙏🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; My GitHub Stats
+
+[1]: https://www.buymeacoffee.com/argeegabrielii
