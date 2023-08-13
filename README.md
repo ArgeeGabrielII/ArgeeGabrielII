@@ -6,6 +6,7 @@
 - ⚡ Fun fact **I'm an outdoor person (Swim, Bike, Run, Hike, WallClimbing, etc)**
 
 ## 🤜🏻🤛🏻 Support Me
-You can support me and [buy me a coffee][1], if you want. 🙏🏻
+You can support me and [buy me a coffee][1], [send a tip][2] if you want. 🙏🏻
 
 [1]: https://www.buymeacoffee.com/argeegabrielii
+[2]: https://www.paypal.com/paypalme/ArgeeGabrielII
